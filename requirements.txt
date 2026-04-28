@@ -9,3 +9,4 @@ aiohttp==3.13.1
 aiosignal==1.4.0
 zipp==3.23.0
 xlsxwriter==3.2.9
+gower==0.1.2
